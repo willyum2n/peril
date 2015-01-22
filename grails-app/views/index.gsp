@@ -51,6 +51,8 @@
                                                     <aside class="small">As if you have a choice</aside>
                                                 </label>
                                                 %{--<g:submitButton name="Create Account" class="btn btn-block btn-info" />--}%
+                                            </div>
+                                            <div class="form-group">
                                                 <button type="button" class="btn btn-info btn-block" data-toggle="modal" data-target="#notReadyModal">Create Account</button>
                                             </div>
                                         </form>
